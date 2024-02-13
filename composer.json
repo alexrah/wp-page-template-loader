@@ -16,6 +16,6 @@
     "php": ">=8.0.0"
   },
   "autoload": {
-    "psr-4": {"SortedIterator\\": "src/WpPageTemplateLoader"}
+    "psr-4": {"WpPageTemplateLoader\\": "src/WpPageTemplateLoader"}
   }
 }
