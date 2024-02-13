@@ -27,3 +27,9 @@ published on packagist at: [https://packagist.org/packages/alexrah/wp-admin-cust
 
 ### version 1.0.0
 * helper classes to inject template-parts & page-templates
+
+## Credits
+
+* page-templates were adapted from http://www.wpexplorer.com/wordpress-page-templates-plugin/
+* template-parts were adaptad from http://github.com/GaryJones/Gamajo-Template-Loader
+
