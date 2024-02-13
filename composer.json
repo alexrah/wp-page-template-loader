@@ -1,0 +1,21 @@
+{
+  "name": "alexrah/wp-page-template-loader",
+  "description": "Helper Classes to inject page templates & template parts",
+  "keywords": ["wp","wordpress", "page-template","template-part","template"],
+  "homepage": "https://github.com/alexrah/wp-page-template-loader",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "alessandro stoppato",
+      "email": "alexrah@gmail.com",
+      "homepage": "https://github.com/alexrah/"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0"
+  },
+  "autoload": {
+    "psr-4": {"SortedIterator\\": "src/WpPageTemplateLoader"}
+  }
+}
